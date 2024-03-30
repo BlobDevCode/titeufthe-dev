@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Blob developper ...
+- 👀 I’m interested in web programming
+- 🌱 I’m currently learning web developement and programming
+- 💞️ I’m looking to collaborate on... i don't really know at the moment
+- 📫 You can contact me on my email: fabricejeanmary09@gmail.com
+- ⚡ Fun fact: I am a developer and programmer, I am willing to try new things in this field,
+-  I have learned the majority of programming languages on my own,
+-   out of desire and ambition.
